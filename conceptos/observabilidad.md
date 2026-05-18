@@ -1,62 +1,58 @@
 # Observabilidad aplicada al problema docente con IA
 
-> *La observabilidad no es una propiedad del estudiante. Es una propiedad del **sistema de evaluación**. Un sistema de evaluación poco observable lo era ya antes de la IA: esta solo hizo la opacidad económicamente accesible y técnicamente trivial.*
+> *La observabilidad no es una propiedad del estudiante. Es una propiedad del sistema de evaluación. Un sistema de evaluación poco observable lo era ya antes de la IA: esta solo hizo la opacidad económicamente accesible y técnicamente trivial.*
 
 ## ¿Por qué?
 
-> *El desacople output/estado interno*
+La evaluación académica siempre fue un problema de inferencia: el docente no puede leer directamente el estado cognitivo del estudiante, solo deducirlo a partir de sus salidas: exámenes, trabajos, presentaciones. El sistema funcionaba porque existía una correlación estructural: para producir cierta salida, el estudiante necesitaba poseer el conocimiento o la competencia que esa salida evidenciaba.
 
-La evaluación académica siempre fue un problema de observabilidad: el docente no puede leer el estado cognitivo del estudiante directamente, solo inferirlo a partir de sus salidas (exámenes, trabajos, código). El sistema funcionaba porque existía una **correlación estructural** entre la capacidad de producir cierta salida y poseer el estado interno correspondiente.
-
-La IA rompe esa correlación actuando como intermediario que sintetiza salidas sin que el estado interno exista en el estudiante. El sistema se vuelve opaco no porque el estudiante oculte algo, sino porque **el canal de salida ya no es causal respecto al estado que se quiere medir**.
-
-Es exactamente el problema del monitoreo sin observabilidad: la métrica (nota, entrega) puede ser verde mientras el sistema subyacente (aprendizaje) está completamente roto.
+La IA rompe esa correlación. Actúa como intermediario que sintetiza salidas de calidad sin que el estado interno exista en el estudiante. El resultado es que la entrega puede ser impecable mientras el aprendizaje es inexistente. Es exactamente el problema del médico que solo mira la radiografía sin explorar al paciente: la imagen puede parecer correcta mientras el problema real queda invisible.
 
 ## ¿Qué?
 
-> *Reformulación del problema*
+**Observabilidad** es la capacidad del sistema de evaluación para inferir el estado cognitivo real del estudiante, no solo medir sus productos finales.
 
-El problema no es "detectar trampa" porque se trata de un callejón sin salida: los detectores de IA son fundamentalmente reactivos, tienen tasas de falso positivo inaceptables y la carrera armamentística entre generadores y detectores la ganan los generadores por diseño.
+Un sistema con baja observabilidad evalúa únicamente el resultado entregado. Un sistema con alta observabilidad cruza varias fuentes de señal (el proceso que llevó al resultado, la capacidad de explicarlo, la respuesta ante variaciones no previstas) y puede detectar cuando esas señales no son consistentes entre sí.
 
-El problema correcto es ***¿cómo hacer observable el proceso cognitivo del estudiante, no solo su output?***
-
-Esto traslada el foco de la salida final al proceso que la produce - exactamente la distinción entre monitoreo y observabilidad.
+La diferencia no es de tecnología. Es de diseño de la evaluación.
 
 ## ¿Para qué?
 
-> *Consecuencias del reencuadre*
+El reencuadre tiene tres consecuencias prácticas:
 
-- La pregunta deja de ser "¿usó IA?" y pasa a ser "¿puedo inferir su estado cognitivo real?".
-- El diseño de evaluaciones se orienta a **aumentar los puntos de instrumentación del proceso**, no a blindar el output.
-- La IA deja de ser el adversario y puede convertirse en parte del proceso visible - lo que el estudiante hace *con* ella es tan informativo como lo que produce.
+||||
+|-|-|-|
+La pregunta deja de ser "¿usó IA?" y pasa a ser "¿puedo inferir su estado cognitivo real?". Esto es relevante porque la primera pregunta no tiene respuesta fiable (los detectores automáticos cometen errores graves) mientras que la segunda sí puede responderse con los instrumentos adecuados.|El diseño de las actividades de evaluación se orienta a aumentar los puntos en los que el proceso del estudiante es visible, en lugar de intentar blindar el producto final contra la IA.|La IA deja de ser necesariamente el adversario. Lo que el estudiante hace con ella (cómo la usa, qué acepta, qué cuestiona y cómo integra sus salidas) es información sobre su estado cognitivo que puede hacerse visible si la evaluación está diseñada para ello.
 
 ## ¿Cómo?
 
-> *Instrumentación del proceso*
+### Registrar la progresión, no solo el resultado
 
-### Trazabilidad causal (el equivalente al `trace_id`)
+Un trabajo entregado sin rastro de su proceso de elaboración es opaco por definición. Cualquier mecanismo que deje huella fechada de las fases intermedias (borradores, esquemas, versiones parciales, historial de edición) convierte el proceso en algo examinable. No como vigilancia, sino como evidencia del trabajo real.
 
-El historial de commits en un repositorio público es exactamente esto: cada commit es un span que registra estado parcial, decisión tomada, momento. No se puede fabricar retrospectivamente sin que la anomalía sea detectable (commits todos en la última hora, ausencia de estados intermedios fallidos, saltos de complejidad no explicados por el historial).
+Un historial de repositorio Git en informática, un portafolio con borradores en humanidades, un cuaderno de laboratorio en ciencias: distintos instrumentos, mismo principio.
 
-Tu pedagogía de repositorios públicos GitHub ya implementa esto. La observabilidad está en el *diff*, no en el resultado final.
+### Cruzar señales
 
-### Correlación entre señales
+Un estudiante con conocimiento real mantiene consistencia entre distintas fuentes de señal. La IA produce resultados que raramente sobreviven el cruce:
 
-Un sistema observable requiere que múltiples fuentes de señal sean consistentes. Aplicado:
+<div align=center>
 
-| Señal | Qué instrumenta |
+| Señal | Qué permite inferir |
 |---|---|
-| Repositorio / historial de edición | Proceso temporal |
-| Defensa oral o code review en vivo | Capacidad de navegar el propio trabajo |
-| Variación incremental de requisitos | Adaptabilidad vs. dependencia de output fijo |
-| Errores cometidos y cómo se resuelven | Modelo mental real |
+| Historial de elaboración o borradores | Progresión real del trabajo en el tiempo |
+| Defensa oral o pregunta sobre el trabajo | Capacidad de navegar lo que se entregó |
+| Variación de los requisitos en el último momento | Adaptabilidad frente a dependencia de un output fijo |
+| Errores cometidos y cómo se resuelven | Modelo mental real, no resultado pulido |
 
-Un estudiante con estado interno real mantiene consistencia entre estas señales. La IA produce outputs que no sobreviven la correlación cruzada: el código entregado existe, la capacidad de explicar una decisión de diseño arbitraria en él, no.
+</div>
 
-### Tail-based sampling - inspección focalizada en anomalías
+### Inspección focalizada en discontinuidades
 
-No es viable instrumentar todo con el mismo nivel de profundidad. El equivalente educativo: identificar outputs que presentan discontinuidad estadística con el historial del estudiante y aplicar inspección intensiva ahí. No como acusación, sino como señal de que el sistema requiere más puntos de observación.
+No es viable aplicar el mismo nivel de profundidad a todo. El criterio práctico: cuando un trabajo presenta una discontinuidad respecto al historial del estudiante (calidad muy superior a lo habitual, cambio brusco de registro, ausencia de sus errores habituales) esa discontinuidad es una señal que justifica más puntos de observación. No como acusación, sino como diagnóstico: algo en el sistema requiere más información.
 
-### Alta cardinalidad en la evaluación
+Un profesor que conoce a sus estudiantes reconoce esa discontinuidad sin necesidad de ninguna herramienta. El problema es cuando el volumen o la modalidad hace imposible ese conocimiento directo.
 
-Las preguntas de examen con respuesta única y predecible son el equivalente a las métricas agregadas: pierden la dimensión que importa. Las consignas con alta cardinalidad - "justifica esta decisión de diseño en el contexto específico de tu implementación" - no tienen respuesta genérica sintetizable, porque requieren el estado interno como condición de posibilidad.
+### Consignas que no tienen respuesta genérica
+
+Una consigna con respuesta única y predecible puede ser respondida sin comprensión real. Una consigna anclada al contexto específico del trabajo del propio estudiante ("explica por qué elegiste este enfoque y no el alternativo que descartaste") no tiene respuesta genérica posible, porque requiere el estado interno como condición de posibilidad. La IA puede generar texto sobre ese tema; no puede responder sobre esa decisión concreta, tomada por esa persona, en ese momento.
