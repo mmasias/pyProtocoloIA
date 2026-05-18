@@ -55,11 +55,11 @@ En actividades que valgan más del 30% de la nota, incluir alguno de estos mecan
 
 ## Trazabilidad de autoría
 
-La titulación debe identificar cuál es su mecanismo natural de trazabilidad de autoría. Debe cumplir dos condiciones: dejar huella fechada de la progresión del trabajo, y ser algo que el alumnado ya haga o pueda integrar sin esfuerzo adicional.
+La titulación debe identificar cuál es su mecanismo natural de trazabilidad de autoría. Debe cumplir dos condiciones: dejar huella fechada de la progresión del trabajo y ser algo que el alumnado ya haga o pueda integrar sin esfuerzo adicional.
 
 **Mecanismo de esta titulación:** *[a definir con el área]*
 
-> **Pregunta para la reunión:** ¿Qué artefactos genera normalmente el alumno a lo largo del trabajo — borradores, esquemas, anotaciones, versiones previas? ¿Dónde quedan registrados y con qué fecha?
+> **Pregunta para la reunión:** ¿Qué artefactos genera normalmente el alumno a lo largo del trabajo: borradores, esquemas, anotaciones, versiones previas? ¿Dónde quedan registrados y con qué fecha?
 
 Una vez identificado, incluir en la guía docente:
 

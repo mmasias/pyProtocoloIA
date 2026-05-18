@@ -16,9 +16,8 @@ Las herramientas actuales del mercado son: GPTZero Writing Report, Draftback, Gr
 
 Dos finalidades principales, no excluyentes:
 
-**Detección de uso de IA.** La escritura humana produce un patrón característico: bloques discontinuos, retrocesos frecuentes, revisiones iterativas. La escritura delegada a IA produce el patrón opuesto: pegados masivos con escasa intervención posterior. La reproducción permite al evaluador observar ese patrón sin depender exclusivamente de un clasificador automático cuyo veredicto el escritor puede impugnar.
-
-**Retroalimentación pedagógica.** La grabación identifica dónde el escritor se bloquea, qué partes reescribe más veces, cuánto tiempo invierte en cada sección. Esto convierte la evaluación en diagnóstico y abre la posibilidad de retroalimentación dirigida al proceso, no solo al resultado.
+- **Detección de uso de IA.** La escritura humana produce un patrón característico: bloques discontinuos, retrocesos frecuentes, revisiones iterativas. La escritura delegada a IA produce el patrón opuesto: pegados masivos con escasa intervención posterior. La reproducción permite al evaluador observar ese patrón sin depender exclusivamente de un clasificador automático cuyo veredicto el escritor puede impugnar.
+- **Retroalimentación.** La grabación identifica dónde el escritor se bloquea, qué partes reescribe más veces, cuánto tiempo invierte en cada sección. Esto convierte la evaluación en diagnóstico y abre la posibilidad de retroalimentación dirigida al proceso, no solo al resultado.
 
 Un beneficio adicional en trabajos colaborativos: herramientas como GPTZero permiten desagregar las contribuciones por editor, lo que resuelve un problema recurrente en trabajos grupales donde la carga real de trabajo es desigual.
 
@@ -33,12 +32,17 @@ El flujo operativo general:
 
 ### Comparativa operativa relevante
 
+<div align=center>
+
 | Herramienta | Integración | Múltiples editores | Detección IA | Marcadores en barra |
 |---|---|---|---|---|
+| WriteHuman | Dentro de Google Docs |  | No |  |
 | GPTZero | Dentro de Google Docs | Sí | Sí | Sí |
 | Draftback | Tab separada | No | No | No |
 | Grammarly Authorship | Tab separada | No | Parcial | No |
 | Turnitin Clarity | Editor propio | No | Sí | Sí |
+
+</div>
 
 La restricción principal de Turnitin Clarity - exigir que el estudiante escriba en su propio entorno - limita su aplicabilidad en contextos donde Google Docs u otros editores en línea son el estándar del curso.
 
