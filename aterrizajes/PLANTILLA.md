@@ -13,14 +13,12 @@ Conviene tener preparado:
 
 ## La reunión
 
-### Apertura
-
 El protocolo pide al profesorado cinco cosas concretas. 
 
-La reunión sirve para resolver dos de ellas, que no se pueden decidir sin conocer la titulación:|Las otras tres son comunes a todas las titulaciones. Se presentan, se confirman y listo.
-|-|-|
-Qué régimen de IA aplica a cada tipo de actividad
-Cuál es el mecanismo de trazabilidad de autoría del área.
+- La reunión sirve para resolver dos de ellas, que no se pueden decidir sin conocer la titulación:
+  - Qué régimen de IA aplica a cada tipo de actividad
+  - Cuál es el mecanismo de trazabilidad de autoría del área.
+- Las otras tres son comunes a todas las titulaciones. Se presentan, se confirman y listo.
 
 ### Paso 1 - ¿Qué régimen aplica a cada actividad?
 
