@@ -8,30 +8,30 @@
 
 El protocolo institucional se concreta en cinco acciones.
 
-1. Declarar el nivel de IA en cada enunciado de entrega.
-2. Exigir la sección de declaración en las entregas (cuando el nivel no sea A).
+1. Declarar el nivel de uso de IA en cada enunciado de entrega.
+2. Exigir siempre la sección de declaración en las entregas.
 3. Documentar que al menos el 10% de las horas lectivas de la asignatura se destinan a trabajo supervisado en aula sobre actividades de entrega. Basta con que quede reflejado en la planificación de la asignatura.
 4. Incluir algún mecanismo de verificación de autoría en trabajos de alto peso (defensa breve, entrega escalonada).
-5. Actualizar la guía docente con una frase que mencione el protocolo y el nivel habitual.
+5. Actualizar la guía docente con una frase que mencione el protocolo y el régimen habitual.
 
 ---
 
-## Los cuatro niveles de uso de IA
+## Los cuatro regímenes de uso de IA
 
-En cada enunciado de entrega hay que indicar cuál aplica. Una línea es suficiente: "Esta actividad es Nivel A / B / C / D".
+En cada enunciado de entrega hay que indicar cuál aplica. Una línea es suficiente: "Esta actividad es Régimen A / B / C / D".
 
-| Nivel A - Sin IA | Nivel B - IA limitada | Nivel C - IA con declaración | Nivel D - IA integrada |
+| Régimen A - Sin IA | Régimen B - IA limitada | Régimen C - IA con declaración | Régimen D - IA integrada |
 |-|-|-|-|
 | Ningún uso de IA. El trabajo es íntegramente propio. | Solo uso instrumental: corrección ortográfica/gramatical, traducción, formato. Sin tocar el contenido de fondo. | Se permite IA para exploración, búsqueda de ideas, apoyo conceptual. El análisis y la producción final son propios. Uso obligatoriamente declarado. | La IA es parte explícita de la tarea: el alumno la usa, la audita y la critica. Todo uso declarado y documentado. La responsabilidad final es siempre del alumno. |
 | Ej.: *[a definir con el área]* | Ej.: *[a definir con el área]* | Ej.: *[a definir con el área]* | Ej.: *[a definir con el área]* |
 
-> **Pregunta para la reunión:** ¿Qué tipos de actividad de evaluación tiene esta titulación? Asignamos nivel a cada una.
+> **Pregunta para la reunión:** ¿Qué tipos de actividad de evaluación tiene esta titulación? Asignamos régimen a cada una.
 
 ---
 
-## La sección de declaración (para los niveles B, C y D)
+## La sección de declaración (para los regímenes B, C y D)
 
-Cuando el nivel no es A, el alumno debe incluir en su entrega una sección llamada exactamente "Declaración del uso de la Inteligencia Artificial".
+El alumno debe incluir en todas sus entregas una sección llamada exactamente "Declaración del uso de la Inteligencia Artificial".
 
 El profesor solo tiene que comprobar que existe. Si no existe, la entrega está incompleta.
 
@@ -71,7 +71,7 @@ Una vez identificado, incluir en la guía docente:
 
 Añadir una frase en el apartado de evaluación:
 
-> "Esta asignatura se rige por el Protocolo de Medidas para Garantizar la Calidad y la Integridad Académicas de UNEATLANTICO (v.2, 2026). El nivel de uso de IA aplicable a cada actividad se indicará en su enunciado."
+> "Esta asignatura se rige por el Protocolo de Medidas para Garantizar la Calidad y la Integridad Académicas de UNEATLANTICO (v.2, 2026). El régimen de uso de IA aplicable a cada actividad se indicará en su enunciado."
 
 ---
 

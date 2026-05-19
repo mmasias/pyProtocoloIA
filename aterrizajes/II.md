@@ -6,24 +6,24 @@
 
 El protocolo institucional se concreta en cinco acciones.
 
-1. Declarar el nivel de IA en cada enunciado de entrega.
-2. Exigir la sección de declaración en las entregas (cuando el nivel no sea A).
+1. Declarar el nivel de uso de IA en cada enunciado de entrega.
+2. Exigir siempre la sección de declaración en las entregas.
 3. Documentar que al menos el 10% de las horas lectivas de la asignatura se destinan a trabajo supervisado en aula sobre actividades de entrega. En Ingeniería Informática esto se cubre con las sesiones de laboratorio. Basta con que quede reflejado en la planificación de la asignatura.
 4. Incluir algún mecanismo de verificación de autoría en trabajos de alto peso (defensa breve, entrega escalonada).
-5. Actualizar la guía docente con una frase que mencione el protocolo y el nivel habitual.
+5. Actualizar la guía docente con una frase que mencione el protocolo y el régimen habitual.
 
-## Los cuatro niveles de uso de IA
+## Los cuatro regímenes de uso de IA
 
-En cada enunciado de entrega hay que indicar cuál aplica. Una línea es suficiente: "Esta actividad es Nivel X".
+En cada enunciado de entrega hay que indicar cuál aplica. Una línea es suficiente: "Esta actividad es Régimen X".
 
 |Sin IA|IA limitada|IA con declaración|IA integrada|
 |-|-|-|-|
 Ningún uso de IA. El trabajo es íntegramente propio.|Solo uso instrumental: corrección ortográfica/gramatical, traducción, formato. Sin tocar el contenido técnico.|Se permite IA para exploración, búsqueda de ideas, apoyo conceptual. El análisis, el diseño y el código final son propios. Uso obligatoriamente declarado.|La IA es parte explícita de la tarea: el alumno la usa, la audita y la critica. Todo uso declarado y documentado. La responsabilidad final es siempre del alumno.
 Ej.: Exámenes presenciales. Pruebas de código en aula. Ejercicios en pizarra.|Ej.: Informe técnico donde el código y el análisis son propios pero se permite revisar la redacción.|Ej.: Proyecto de diseño de software. TFG/TFM. Trabajo de investigación donde la IA puede ayudar a buscar referencias o generar ideas iniciales.|Ej.: Práctica de generación de código con IA y análisis crítico del resultado. Comparativa de soluciones humanas vs. generadas.
 
-## La sección de declaración (para los niveles B, C y D)
+## La sección de declaración (para los regímenes B, C y D)
 
-Cuando el nivel no es A, el alumno debe incluir en su entrega una sección llamada exactamente "Declaración del uso de la Inteligencia Artificial".
+El alumno debe incluir en todas sus entregas una sección llamada exactamente "Declaración del uso de la Inteligencia Artificial".
 
 El profesor solo tiene que comprobar que existe. Si no existe, la entrega está incompleta.
 
@@ -45,7 +45,7 @@ En proyectos o trabajos que valgan más del 30% de la nota, incluir alguno de es
 
 Añadir una frase en el apartado de evaluación:
 
-> "Esta asignatura se rige por el Protocolo de Medidas para Garantizar la Calidad y la Integridad Académicas de UNEATLANTICO (v.2, 2026). El nivel de uso de IA aplicable a cada actividad se indicará en su enunciado."
+> "Esta asignatura se rige por el Protocolo de Medidas para Garantizar la Calidad y la Integridad Académicas de UNEATLANTICO (v.2, 2026). El régimen de uso de IA aplicable a cada actividad se indicará en su enunciado."
 
 ## Trazabilidad de autoría
 
