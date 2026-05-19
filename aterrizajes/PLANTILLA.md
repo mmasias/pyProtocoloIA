@@ -2,27 +2,27 @@
 
 > *Para usarse en la reunión con profesorado representativo del área.*
 >
-> ***Objetivo***: *salir con el documento de aterrizaje de la titulación completo o al menos con los datos necesarios para completarlo.*
+> ***Objetivo***: *salir con el documento de aterrizaje de la asignatura completo o al menos con los datos necesarios para completarlo.*
 
 ## Antes de la reunión
 
 Conviene tener preparado:
 
-- La lista de tipos de actividad de evaluación habituales en la titulación.
+- La lista de tipos de actividad de evaluación habituales en la asignatura.
 - El aterrizaje de Ingeniería Informática como ejemplo de resultado esperado.
 
 ## La reunión
 
-El protocolo pide al profesorado cinco cosas concretas. 
+El protocolo nos pide cinco cosas concretas. 
 
-- La reunión sirve para resolver dos de ellas, que no se pueden decidir sin conocer la titulación:
+- Esta reunión sirve para resolver **dos de ellas**, que no se pueden decidir sin conocer la asignatura:
   - Qué régimen de IA aplica a cada tipo de actividad
-  - Cuál es el mecanismo de trazabilidad de autoría del área.
+  - Cuál es el mecanismo de trazabilidad.
 - Las otras tres son comunes a todas las titulaciones. Se presentan, se confirman y listo.
 
 ### Paso 1 - ¿Qué régimen aplica a cada actividad?
 
-Dada la tabla de regímenes, recorrer los tipos de actividad de la titulación uno a uno. La pregunta es siempre la misma:
+Dada la tabla de regímenes, recorrer los tipos de actividad de la asignatura uno a uno. La pregunta es siempre la misma:
 
 > ¿Esta actividad es A (sin IA), B (IA instrumental), C (IA con declaración) o D (IA integrada)?
 
@@ -65,7 +65,7 @@ Estas no requieren decisión, solo que el profesorado las conozca:
 
 ## Post-reunión
 
-Con lo anotado, completar el documento de aterrizaje de la titulación:
+Con lo anotado, completar el [documento de aterrizaje de la asignatura](PLANTILLA-aterrizaje.md):
 
 - [ ] Rellenar los ejemplos de cada régimen con actividades reales del área.
 - [ ] Registrar el mecanismo de trazabilidad y su formulación para la guía docente.
