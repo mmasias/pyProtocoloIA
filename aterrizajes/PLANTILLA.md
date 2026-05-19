@@ -8,8 +8,7 @@
 
 Conviene tener preparado:
 
-- La lista de tipos de actividad de evaluación habituales en la asignatura.
-- El aterrizaje de Ingeniería Informática como ejemplo de resultado esperado.
+- La lista de tipos de actividades de evaluación habituales en la asignatura.
 
 ## La reunión
 
