@@ -16,13 +16,13 @@ Este repositorio intenta ser el aterrizaje del protocolo a algo utilizable.
 
 ## Estructura
 
-- conceptos/
-  - [Por que no deteccion](conceptos/porQueNoDeteccion.md): por qué el protocolo no pivota sobre detectores de IA
+- Conceptos/
+  - [Por que no detección](conceptos/porQueNoDeteccion.md): por qué el protocolo no pivota sobre detectores de IA
   - [Observabilidad](conceptos/observabilidad.md): qué significa hacer observable el proceso cognitivo
-- herramientas/
+- Herramientas/
   - [Verificación oral](herramientas/verificacionOral.md): la pregunta de 5 minutos, la herramienta más potente y universal
   - [Reproducción de escritura](herramientas/reproduccionEscritura.md): herramientas de grabación del proceso de escritura
-- aterrizajes/
+- Aterrizajes/
   - [PLANTILLA](aterrizajes/PLANTILLA.md): plantilla para sentar con el profesorado de cada titulación
   - [II](aterrizajes/II.md): Aterrizaje ya resuelto para el Grado en Ingeniería Informática
 - [protocolo/](protocolo/)
