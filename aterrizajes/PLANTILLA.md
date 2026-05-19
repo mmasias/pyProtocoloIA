@@ -12,7 +12,7 @@ El protocolo institucional se concreta en cinco acciones.
 2. Exigir siempre la sección de declaración en las entregas.
 3. Documentar que al menos el 10% de las horas lectivas de la asignatura se destinan a trabajo supervisado en aula sobre actividades de entrega. Basta con que quede reflejado en la planificación de la asignatura.
 4. Incluir algún mecanismo de verificación de autoría en trabajos de alto peso (defensa breve, entrega escalonada).
-5. Actualizar la guía docente con una frase que mencione el protocolo y el régimen habitual.
+5. Actualizar -ordenación académica- la guía docente con una frase que mencione el protocolo y el régimen habitual.
 
 ---
 
