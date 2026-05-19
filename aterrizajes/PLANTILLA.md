@@ -71,7 +71,7 @@ Una vez identificado, incluir en la guía docente:
 
 Añadir una frase en el apartado de evaluación:
 
-> "Esta asignatura se rige por el Protocolo de Medidas para Garantizar la Calidad y la Integridad Académicas de UNEATLANTICO (v.2, 2026). El régimen de uso de IA aplicable a cada actividad se indicará en su enunciado."
+> "Esta asignatura se rige por el Protocolo de Medidas para Garantizar la Calidad y la Integridad Académicas de UNEATLANTICO. El régimen de uso de IA aplicable a cada actividad se indicará en su enunciado."
 
 ---
 
