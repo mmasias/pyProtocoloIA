@@ -67,7 +67,7 @@ Una vez identificado, incluir en la guía docente:
 
 ---
 
-## Actualización de la guía docente
+## Actualización de la guía docente (por Ordenación académica)
 
 Añadir una frase en el apartado de evaluación:
 
@@ -81,6 +81,6 @@ El régimen sancionador está pendiente de actualización del reglamento académ
 
 Para reclamaciones, el protocolo define tres niveles:
 
-- Nivel 1: el docente responsable de la actividad.
-- Nivel 2: el Director de la Escuela o Facultad correspondiente.
-- Nivel 3: el Vicerrectorado competente.
+- Nivel 1: el docente o responsable académico de la actividad.
+- Nivel 2: el comité de ética académica o instancia colegiada equivalente.
+- Nivel 3: la instancia institucional superior competente.

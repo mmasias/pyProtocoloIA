@@ -61,6 +61,6 @@ El régimen sancionador está pendiente de actualización del reglamento académ
 
 Para reclamaciones, el protocolo define tres niveles:
 
-* Nivel 1: el docente responsable de la actividad.
-* Nivel 2: el Director de la Escuela Politécnica Superior.
-* Nivel 3: el Vicerrectorado competente.
+* Nivel 1: el docente o responsable académico de la actividad.
+* Nivel 2: el comité de ética académica o instancia colegiada equivalente.
+* Nivel 3: la instancia institucional superior competente.
