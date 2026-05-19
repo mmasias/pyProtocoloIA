@@ -1,8 +1,8 @@
 # pyProtocoloIA
 
-La universidad tiene un [protocolo de integridad académica con IA](protocolo/). Son dos documentos que explican por qué la IA es importante, citan el Reglamento EU 2024/1689 y establecen diez ejes de actuación. Un profesor que los lee sigue sin saber qué tiene que hacer el lunes.
+La universidad tiene un [protocolo de integridad académica con IA](protocolo/). Son dos documentos que explican por qué la IA es importante, citan el Reglamento EU 2024/1689 y establecen diez ejes de actuación.
 
-Este repositorio intenta ser la traducción de ese protocolo a algo utilizable.
+Este repositorio intenta ser el aterrizaje del protocolo a algo utilizable.
 
 ## El hilo
 
