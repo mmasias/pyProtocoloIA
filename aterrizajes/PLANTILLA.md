@@ -61,9 +61,9 @@ La titulación debe identificar cuál es su mecanismo natural de trazabilidad de
 
 > **Pregunta para la reunión:** ¿Qué artefactos genera normalmente el alumno a lo largo del trabajo: borradores, esquemas, anotaciones, versiones previas? ¿Dónde quedan registrados y con qué fecha?
 
-Una vez identificado, incluir en la guía docente:
+Una vez identificado, incluir en cada actividad:
 
-> "[Descripción del mecanismo] constituye el registro de trazabilidad de autoría de esta asignatura."
+> "[Descripción del mecanismo] constituye el registro de trazabilidad de autoría de esta actividad."
 
 ---
 
