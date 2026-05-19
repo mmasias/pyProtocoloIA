@@ -1,79 +1,79 @@
-# Aterrizaje del protocolo de integridad académica - [Nombre del Grado]
+# Guion reunión aterrizaje del protocolo de IA académica
 
-> *Este documento es la concreción del Protocolo de Medidas para Garantizar la Calidad y la Integridad Académicas de UNEATLANTICO (v.2, 2026) para esta titulación. Se elabora con el profesorado representativo del área.*
+> *Para usarse en la reunión con profesorado representativo del área.*
+>
+> ***Objetivo***: *salir con el documento de aterrizaje de la titulación completo o al menos con los datos necesarios para completarlo.*
 
----
+## Antes de la reunión
 
-## Qué pedir al profesorado
+Conviene tener preparado:
 
-El protocolo institucional se concreta en cinco acciones.
+- La lista de tipos de actividad de evaluación habituales en la titulación.
+- El aterrizaje de Ingeniería Informática como ejemplo de resultado esperado.
 
-1. Declarar el nivel de uso de IA en cada enunciado de entrega.
-2. Exigir siempre la sección de declaración en las entregas.
-3. Documentar que al menos el 10% de las horas lectivas de la asignatura se destinan a trabajo supervisado en aula sobre actividades de entrega. Basta con que quede reflejado en la planificación de la asignatura.
-4. Incluir algún mecanismo de verificación de autoría en trabajos de alto peso (defensa breve, entrega escalonada).
-5. Actualizar -ordenación académica- la guía docente con una frase que mencione el protocolo y el régimen habitual.
+## La reunión
 
----
+### Apertura
 
-## Los cuatro regímenes de uso de IA
+El protocolo pide al profesorado cinco cosas concretas. 
 
-En cada enunciado de entrega hay que indicar cuál aplica. Una línea es suficiente: "Esta actividad es Régimen A / B / C / D".
+La reunión sirve para resolver dos de ellas, que no se pueden decidir sin conocer la titulación:|Las otras tres son comunes a todas las titulaciones. Se presentan, se confirman y listo.
+|-|-|
+Qué régimen de IA aplica a cada tipo de actividad
+Cuál es el mecanismo de trazabilidad de autoría del área.
+
+### Paso 1 - ¿Qué régimen aplica a cada actividad?
+
+Dada la tabla de regímenes, recorrer los tipos de actividad de la titulación uno a uno. La pregunta es siempre la misma:
+
+> ¿Esta actividad es A (sin IA), B (IA instrumental), C (IA con declaración) o D (IA integrada)?
 
 | Régimen A - Sin IA | Régimen B - IA limitada | Régimen C - IA con declaración | Régimen D - IA integrada |
 |-|-|-|-|
 | Ningún uso de IA. El trabajo es íntegramente propio. | Solo uso instrumental: corrección ortográfica/gramatical, traducción, formato. Sin tocar el contenido de fondo. | Se permite IA para exploración, búsqueda de ideas, apoyo conceptual. El análisis y la producción final son propios. Uso obligatoriamente declarado. | La IA es parte explícita de la tarea: el alumno la usa, la audita y la critica. Todo uso declarado y documentado. La responsabilidad final es siempre del alumno. |
-| Ej.: *[a definir con el área]* | Ej.: *[a definir con el área]* | Ej.: *[a definir con el área]* | Ej.: *[a definir con el área]* |
 
-> **Pregunta para la reunión:** ¿Qué tipos de actividad de evaluación tiene esta titulación? Asignamos régimen a cada una.
-
----
-
-## La sección de declaración (para los regímenes B, C y D)
-
-El alumno debe incluir en todas sus entregas una sección llamada exactamente "Declaración del uso de la Inteligencia Artificial".
-
-El profesor solo tiene que comprobar que existe. Si no existe, la entrega está incompleta.
-
-El contenido mínimo de esa sección es:
-
-- Herramienta utilizada (o "No se ha utilizado ninguna").
-- Para qué se usó (corrección de texto, búsqueda de ideas, generación de contenido...).
-- En qué fase del trabajo intervino.
+**Anotar:** régimen acordado para cada tipo de actividad.
 
 ---
 
-## Verificación de autoría en trabajos de alto peso
+### Paso 2 - ¿Cuál es el mecanismo de trazabilidad?
 
-En actividades que valgan más del 30% de la nota, incluir alguno de estos mecanismos (basta con uno):
+No hay que inventar nada. La pregunta es qué existe ya y deja huella fechada del proceso de elaboración.
 
-- Una pregunta oral de 5 minutos en la revisión: "¿por qué tomaste esta decisión?", "¿cómo llegaste a esta conclusión?".
-- Entrega escalonada con al menos un hito intermedio (esquema, borrador, versión parcial).
-- Sesión de trabajo supervisado en aula sobre esa entrega (cuenta también para el 10% del protocolo).
+> - ¿Qué produce el alumnado a lo largo del trabajo, además del producto final?
+> - ¿Borradores, esquemas, versiones previas, cuadernos de laboratorio, repositorios?
+> - ¿Dónde quedan registrados y con qué fecha?
 
----
+El mecanismo válido debe cumplir dos condiciones:
 
-## Trazabilidad de autoría
+- Dejar huella fechada de la progresión.
+- Ser algo que el alumnado ya hace o puede integrar sin esfuerzo adicional.
 
-La titulación debe identificar cuál es su mecanismo natural de trazabilidad de autoría. Debe cumplir dos condiciones: dejar huella fechada de la progresión del trabajo y ser algo que el alumnado ya haga o pueda integrar sin esfuerzo adicional.
+**Anotar:** el mecanismo identificado y cómo se formulará en la guía docente.
 
-**Mecanismo de esta titulación:** *[a definir con el área]*
+### Paso 3 - Confirmar las tres acciones comunes
 
-> **Pregunta para la reunión:** ¿Qué artefactos genera normalmente el alumno a lo largo del trabajo: borradores, esquemas, anotaciones, versiones previas? ¿Dónde quedan registrados y con qué fecha?
+Estas no requieren decisión, solo que el profesorado las conozca:
 
-Una vez identificado, incluir en cada actividad:
+<div align=center>
 
-> "[Descripción del mecanismo] constituye el registro de trazabilidad de autoría de esta actividad."
+|||
+|-|-|
+|**Declaración de uso**|Obligatoria en todas las entregas. Contenido mínimo: herramienta utilizada, para qué se usó, en qué fase intervino. Si no existe, la entrega está incompleta.
+|**Verificación de autoría**|En actividades con peso superior al 30%, al menos uno de estos mecanismos: pregunta oral de 5 minutos sobre una decisión concreta del trabajo, entrega escalonada con hito intermedio, o sesión supervisada en aula.
+|**Trabajo supervisado**|Documentar que al menos el 10% de las horas lectivas se destinan a trabajo supervisado en aula sobre actividades de entrega.
 
----
+</div>
 
-## Actualización de la guía docente (por Ordenación académica)
+## Post-reunión
 
-Añadir una frase en el apartado de evaluación:
+Con lo anotado, completar el documento de aterrizaje de la titulación:
+
+- [ ] Rellenar los ejemplos de cada régimen con actividades reales del área.
+- [ ] Registrar el mecanismo de trazabilidad y su formulación para la guía docente.
+- [ ] Enviar a Ordenación Académica para incorporar en las guías la frase estándar del protocolo:
 
 > "Esta asignatura se rige por el Protocolo de Medidas para Garantizar la Calidad y la Integridad Académicas de UNEATLANTICO. El régimen de uso de IA aplicable a cada actividad se indicará en su enunciado."
-
----
 
 ## Régimen sancionador y reclamaciones
 
