@@ -25,9 +25,9 @@ Dada la tabla de regímenes, recorrer los tipos de actividad de la asignatura un
 
 > ¿Esta actividad es A (sin IA), B (IA instrumental), C (IA con declaración) o D (IA integrada)?
 
-| Régimen A - Sin IA | Régimen B - IA limitada | Régimen C - IA con declaración | Régimen D - IA integrada |
+| Régimen A<br>Sin IA | Régimen B<br>IA limitada | Régimen C<br>IA con declaración | Régimen D<br>IA integrada |
 |-|-|-|-|
-| Ningún uso de IA. El trabajo es íntegramente propio. | Solo uso instrumental: corrección ortográfica/gramatical, traducción, formato. Sin tocar el contenido de fondo. | Se permite IA para exploración, búsqueda de ideas, apoyo conceptual. El análisis y la producción final son propios. Uso obligatoriamente declarado. | La IA es parte explícita de la tarea: el alumno la usa, la audita y la critica. Todo uso declarado y documentado. La responsabilidad final es siempre del alumno. |
+|<sub>Ningún uso de IA. El trabajo es íntegramente propio. |<sub>Solo uso instrumental: corrección ortográfica/gramatical, traducción, formato. Sin tocar el contenido de fondo. |<sub>Se permite IA para exploración, búsqueda de ideas, apoyo conceptual. El análisis y la producción final son propios. Uso obligatoriamente declarado. |<sub>La IA es parte explícita de la tarea: el alumno la usa, la audita y la critica. Todo uso declarado y documentado. La responsabilidad final es siempre del alumno. |
 
 **Anotar:** régimen acordado para cada tipo de actividad.
 
