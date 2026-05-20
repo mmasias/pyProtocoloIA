@@ -23,9 +23,11 @@ Este repositorio intenta ser el aterrizaje del protocolo a algo utilizable.
 
 ### Herramientas/
 
-|[Verificación oral](herramientas/verificacionOral.md)|[Reproducción de escritura](herramientas/reproduccionEscritura.md)|[Consignas ancladas](herramientas/consignasAncladas.md)|[Entrega escalonada](herramientas/entregaEscalonada.md)|[Portafolio de proceso](herramientas/portafolioProceso.md)|[Repositorio Git](herramientas/repoGitHub.md)|[Rúbrica de proceso y producto](herramientas/rubricaProceso.md)
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Pregunta de 5 minutos|Herramientas de grabación del proceso de escritura|Enunciados que no tienen respuesta genérica posible|Hitos intermedios con valor real de trazabilidad|Autoría para áreas sin mecanismo digital nativo|Commits como registro de autoría en titulaciones técnicas|Evidencia de proceso junto al producto final
+|[Verificación oral](herramientas/verificacionOral.md)|[Reproducción de escritura](herramientas/reproduccionEscritura.md)|[Consignas ancladas](herramientas/consignasAncladas.md)|[Entrega escalonada](herramientas/entregaEscalonada.md)
+|:-:|:-:|:-:|:-:|
+|Pregunta de 5 minutos|Herramientas de grabación del proceso de escritura|Enunciados que no tienen respuesta genérica posible|Hitos intermedios con valor real de trazabilidad
+|[**Portafolio de proceso**](herramientas/portafolioProceso.md)|[**Repositorio Git**](herramientas/repoGitHub.md)|[**Rúbrica de proceso y producto**](herramientas/rubricaProceso.md)
+|Autoría para áreas sin mecanismo digital nativo|Commits como registro de autoría en titulaciones técnicas|Evidencia de proceso junto al producto final
 
 ### Aterrizajes/
 
