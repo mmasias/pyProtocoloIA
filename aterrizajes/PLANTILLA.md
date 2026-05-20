@@ -15,8 +15,8 @@ Conviene tener preparado:
 El protocolo nos pide cinco cosas concretas. 
 
 - Esta reunión sirve para resolver **dos de ellas**, que no se pueden decidir sin conocer la asignatura:
-  - Qué régimen de IA aplica a cada tipo de actividad
-  - Cuál es el mecanismo de trazabilidad.
+  - **Qué régimen de IA** aplica a cada tipo de actividad
+  - **Cuál** es el mecanismo de trazabilidad.
 - Las otras tres son comunes a todas las titulaciones. Se presentan, se confirman y listo.
 
 ### Paso 1 - ¿Qué régimen aplica a cada actividad?
