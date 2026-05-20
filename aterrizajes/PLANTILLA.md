@@ -1,7 +1,5 @@
 # Guion reunión aterrizaje del protocolo de IA académica
 
-> *Para usarse en la reunión con profesorado representativo del área.*
->
 > ***Objetivo***: *salir con el documento de aterrizaje de la asignatura completo o al menos con los datos necesarios para completarlo.*
 
 ## Antes de la reunión
