@@ -16,23 +16,24 @@ Este repositorio intenta ser el aterrizaje del protocolo a algo utilizable.
 
 ## Estructura
 
-- Conceptos/
-  - [Por que no detección](conceptos/porQueNoDeteccion.md): por qué el protocolo no pivota sobre detectores de IA
-  - [Observabilidad](conceptos/observabilidad.md): qué significa hacer observable el proceso cognitivo
-- Herramientas/
-  - [Verificación oral](herramientas/verificacionOral.md): la pregunta de 5 minutos, la herramienta más potente y universal
-  - [Reproducción de escritura](herramientas/reproduccionEscritura.md): herramientas de grabación del proceso de escritura
-  - [Consignas ancladas](herramientas/consignasAncladas.md): cómo diseñar enunciados que no tienen respuesta genérica posible
-  - [Entrega escalonada](herramientas/entregaEscalonada.md): cómo diseñar hitos intermedios con valor real de trazabilidad
-  - [Portafolio de proceso](herramientas/portafolioProceso.md): trazabilidad de autoría para áreas sin mecanismo digital nativo
-  - [Repositorio Git](herramientas/repoGitHub.md): el historial de commits como registro de autoría en titulaciones técnicas
-  - [Rúbrica de proceso y producto](herramientas/rubricaProceso.md): cómo ponderar evidencia de proceso junto al producto final
-- Aterrizajes/
-  - [Guion de reunión](aterrizajes/PLANTILLA-guion.md): para facilitar la reunión con el profesorado del área
-  - [Pasos explicados](aterrizajes/PLANTILLA-pasos.md): versión autoguiada para leer sin reunión
-  - [Formulario por asignatura](aterrizajes/PLANTILLA-aterrizaje.md): el documento que se rellena y queda archivado
-  - [II - Ingeniería Informática](aterrizajes/II.md): ejemplo ya resuelto para ese grado
-- [protocolo/](protocolo/)
+### Conceptos/
+
+- [Por que no detección](conceptos/porQueNoDeteccion.md): por qué el protocolo no pivota sobre detectores de IA
+- [Observabilidad](conceptos/observabilidad.md): qué significa hacer observable el proceso cognitivo
+
+### Herramientas/
+
+|[Verificación oral](herramientas/verificacionOral.md)|[Reproducción de escritura](herramientas/reproduccionEscritura.md)|[Consignas ancladas](herramientas/consignasAncladas.md)|[Entrega escalonada](herramientas/entregaEscalonada.md)|[Portafolio de proceso](herramientas/portafolioProceso.md)|[Repositorio Git](herramientas/repoGitHub.md)|[Rúbrica de proceso y producto](herramientas/rubricaProceso.md)
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Pregunta de 5 minutos|Herramientas de grabación del proceso de escritura|Enunciados que no tienen respuesta genérica posible|Hitos intermedios con valor real de trazabilidad|Autoría para áreas sin mecanismo digital nativo|Commits como registro de autoría en titulaciones técnicas|Evidencia de proceso junto al producto final
+
+### Aterrizajes/
+
+- [Guion de reunión](aterrizajes/PLANTILLA.md): para facilitar la reunión con el profesorado del área
+- [Formulario por asignatura](aterrizajes/PLANTILLA-aterrizaje.md): el documento que se rellena y queda archivado
+
+### [protocolo/](protocolo/)
+
   - Documentos institucionales de referencia
 
 ## Orden de lectura
@@ -42,7 +43,7 @@ Este repositorio intenta ser el aterrizaje del protocolo a algo utilizable.
 |||
 |-|-|
 |**Para entender el marco**|[Por que no deteccion](conceptos/porQueNoDeteccion.md) y luego [observabilidad](conceptos/observabilidad.md).|
-|**Para una reunión con profesorado**|[Guion de reunión](aterrizajes/PLANTILLA-guion.md) y el [formulario](aterrizajes/PLANTILLA-aterrizaje.md) en mano.|
+|**Para una reunión con profesorado**|[Guion de reunión](aterrizajes/PLANTILLA.md) y el [formulario](aterrizajes/PLANTILLA-aterrizaje.md) en mano.|
 |**Para ver un ejemplo resuelto**|[II - Ingeniería Informática](aterrizajes/II.md).|
 
 </div>
