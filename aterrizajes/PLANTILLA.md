@@ -56,8 +56,8 @@ Estas no requieren decisión, solo que el profesorado las conozca:
 
 |||
 |-|-|
-|**Declaración de uso**|Obligatoria en todas las entregas. Contenido mínimo: herramienta utilizada, para qué se usó, en qué fase intervino. Si no existe, la entrega está incompleta.
-|**Verificación de autoría**|En actividades con peso superior al 30%, al menos uno de estos mecanismos: pregunta oral de 5 minutos sobre una decisión concreta del trabajo, entrega escalonada con hito intermedio, o sesión supervisada en aula.
+|**Declaración de uso**|Obligatoria en todas las entregas.<br>Contenido mínimo: herramienta utilizada, para qué se usó, en qué fase intervino.<br>Si no existe, la entrega está incompleta.
+|**Verificación de autoría**|En actividades con peso superior al 30%, al menos uno de estos mecanismos:<br>- Pregunta oral de 5 minutos sobre una decisión concreta del trabajo<br>- Entrega escalonada con hito intermedio<br>- Sesión supervisada en aula.
 |**Trabajo supervisado**|Documentar que al menos el 10% de las horas lectivas se destinan a trabajo supervisado en aula sobre actividades de entrega.
 
 </div>
