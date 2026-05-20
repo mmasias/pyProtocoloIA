@@ -10,7 +10,7 @@ Este repositorio intenta ser el aterrizaje del protocolo a algo utilizable.
 
 **La solución no es tecnológica, es de diseño.** Un sistema de evaluación observable instrumenta el proceso (no solo el producto), cruza varias fuentes de señal y usa consignas que no tienen respuesta genérica. La IA no puede responder "por qué tomaste esta decisión concreta en la sección 3 de tu trabajo". Un alumno que la entiende, sí.
 
-**El protocolo institucional se concreta en cinco acciones para el profesorado**, articuladas en torno a un sistema de cuatro niveles de uso de IA que se declara en cada enunciado de entrega. Nada más.
+**El protocolo institucional se concreta en cinco acciones para el profesorado**, articuladas en torno a un sistema de cuatro regímenes de uso de IA que se declara en cada enunciado de entrega. Nada más.
 
 **Cada titulación adapta esas cinco acciones** a sus tipos de actividad y a su mecanismo natural de trazabilidad. En Ingeniería Informática ese mecanismo es el historial de commits. En otra titulación será otro artefacto. La plantilla facilita esa conversación.
 
@@ -22,9 +22,16 @@ Este repositorio intenta ser el aterrizaje del protocolo a algo utilizable.
 - Herramientas/
   - [Verificación oral](herramientas/verificacionOral.md): la pregunta de 5 minutos, la herramienta más potente y universal
   - [Reproducción de escritura](herramientas/reproduccionEscritura.md): herramientas de grabación del proceso de escritura
+  - [Consignas ancladas](herramientas/consignasAncladas.md): cómo diseñar enunciados que no tienen respuesta genérica posible
+  - [Entrega escalonada](herramientas/entregaEscalonada.md): cómo diseñar hitos intermedios con valor real de trazabilidad
+  - [Portafolio de proceso](herramientas/portafolioProceso.md): trazabilidad de autoría para áreas sin mecanismo digital nativo
+  - [Repositorio Git](herramientas/repoGitHub.md): el historial de commits como registro de autoría en titulaciones técnicas
+  - [Rúbrica de proceso y producto](herramientas/rubricaProceso.md): cómo ponderar evidencia de proceso junto al producto final
 - Aterrizajes/
-  - [PLANTILLA](aterrizajes/PLANTILLA.md): plantilla para sentar con el profesorado de cada titulación
-  - [II](aterrizajes/II.md): Aterrizaje ya resuelto para el Grado en Ingeniería Informática
+  - [Guion de reunión](aterrizajes/PLANTILLA-guion.md): para facilitar la reunión con el profesorado del área
+  - [Pasos explicados](aterrizajes/PLANTILLA-pasos.md): versión autoguiada para leer sin reunión
+  - [Formulario por asignatura](aterrizajes/PLANTILLA-aterrizaje.md): el documento que se rellena y queda archivado
+  - [II - Ingeniería Informática](aterrizajes/II.md): ejemplo ya resuelto para ese grado
 - [protocolo/](protocolo/)
   - Documentos institucionales de referencia
 
@@ -34,9 +41,9 @@ Este repositorio intenta ser el aterrizaje del protocolo a algo utilizable.
 
 |||
 |-|-|
-|**Para entender el marco**|[Por que no deteccion](conceptos/porQueNoDeteccion.md) y luego [observabilidad](conceptos/observabilidad.md).
-|**Para una reunión con profesorado**|[PLANTILLA](aterrizajes/PLANTILLA.md) directamente.
-|**Para ver un ejemplo resuelto**|[II - Ingeniería Informática](aterrizajes/II.md).
+|**Para entender el marco**|[Por que no deteccion](conceptos/porQueNoDeteccion.md) y luego [observabilidad](conceptos/observabilidad.md).|
+|**Para una reunión con profesorado**|[Guion de reunión](aterrizajes/PLANTILLA-guion.md) y el [formulario](aterrizajes/PLANTILLA-aterrizaje.md) en mano.|
+|**Para ver un ejemplo resuelto**|[II - Ingeniería Informática](aterrizajes/II.md).|
 
 </div>
 
